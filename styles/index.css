@@ -292,3 +292,38 @@
         padding-bottom: 25px;
     }
   }
+
+  @media only screen and (max-width: 404px) {
+
+    #mobile a {
+      padding:6px 50px;
+      border-radius: 30px;
+      font-size: 9px;
+      margin-top: 5px;
+    }
+
+    #buttons {
+        padding-top: 185px;
+        padding-left: 6%;
+        padding-bottom: 25px;
+    }
+  }
+
+  @media only screen and (max-width: 380px) {
+
+    #mobile a {
+      padding:4px 45px;
+      border-radius: 30px;
+      font-size: 9px;
+      margin-top: 5px;
+    }
+
+    #buttons {
+        padding-top: 175px;
+        padding-left: 6%;
+        padding-bottom: 25px;
+    }
+  }
+
+
+  
