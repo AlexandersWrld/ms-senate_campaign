@@ -236,6 +236,7 @@
       padding:6px 50px;
       border-radius: 30px;
       font-size: smaller;
+      border: 2px solid #001d74;
     }
 
     #buttons {
@@ -243,7 +244,13 @@
         padding-left: 6%;
         padding-bottom: 20px;
     }
+
+    #statement p {
+        font-size: smaller;
+    }
   }
+
+
 
   @media only screen and (max-width: 440px) {
 
