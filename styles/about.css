@@ -1,3 +1,8 @@
+@font-face {
+    font-family: myFont;
+    src:url(../Heavitas.ttf)
+}
+
 #mobile {
     display:none;
 }
@@ -9,4 +14,15 @@
     #mobile{
         display: block;
     }
+  }
+
+  #mobilecarousel {
+    background-color:#010543;
+  }
+
+  #mobilecarousel h1 {
+    color: #ffffff;
+    font-family: myFont;
+    padding: 5% 8% 1%;
+    font-size: 450%;
   }
